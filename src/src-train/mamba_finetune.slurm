@@ -19,4 +19,4 @@ module load gnu10
 source ~/llama-r/bin/activate
 
 # Execute your training script
-python /scratch/ssenthi2/llama-r/training.py
+python /scratch/ssenthi2/llama-r/training_mamba.py
